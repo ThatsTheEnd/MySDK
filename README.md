@@ -91,11 +91,12 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 
 
-### Built With
+## Documentation
 
-* [![Next][Next.js]][Next-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* To get started, go through the installation instructions below
+* *hello world* examples can be found in the [examples](https://github.com/ThatsTheEnd/MySDK/tree/main/examples)
+* Instruction videos on how to use the SDK can be found on the [horiba youtube channel](https://www.youtube.com/user/HORIBAScientificVDO)
+* The full documentation of the APi can be found on [Read the docs](https://readthedocs.org/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
