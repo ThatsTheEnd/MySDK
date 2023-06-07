@@ -117,7 +117,7 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Log into ![Horiba.com][Horiba.com] with your user account or create a new account
+1. Log into ![horiba.com](www.horiba.com) with your user account or create a new account
 2. Enter your Horiba hardware serial number(s) to see if you have access to the SDK
 3. Download and install the SDK
 4. Run one of the *hello world* examples in the [examples](https://github.com/ThatsTheEnd/MySDK/tree/main/examples) section of this repo.
