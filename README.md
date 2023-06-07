@@ -94,11 +94,6 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 ### Built With
 
 * [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 
@@ -122,19 +117,10 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/ThatsTheEnd/MySDK.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+1. Log into ![Horiba.com][Horiba.com] with your user account or create a new account
+2. Enter your Horiba hardware serial number(s) to see if you have access to the SDK
+3. Download and install the SDK
+4. Run one of the *hello world* examples in the [examples](https://github.com/ThatsTheEnd/MySDK/tree/main/examples) section of this repo.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -245,3 +231,4 @@ Project Link: [https://github.com/ThatsTheEnd/MySDK](https://github.com/ThatsThe
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
+[horiba.com]: https://www.horiba.com
