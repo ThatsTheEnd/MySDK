@@ -110,19 +110,23 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 These code examples rely on an installed version of the SDK.
-You can check this by running:
-
-   ```sh
-   MySDK --version
-   ```
 
 
-### Installation
+### Installation of the SDK
 
 1. Log into [horiba.com](www.horiba.com) with your user account or create a new account
 2. Enter your Horiba hardware serial number(s) to see if you have access to the SDK
 3. Download and install the SDK
-4. Run one of the *hello world* examples in the [examples](https://github.com/ThatsTheEnd/MySDK/tree/main/examples) section of this repo.
+4. You can a successful installation by running the following commands in a shell:
+
+   ```sh
+   MySDK --version
+   ```
+   This must return a version string, e.g. "1.7.3"
+
+5. Run one of the *hello world* examples in the [examples](https://github.com/ThatsTheEnd/MySDK/tree/main/examples) section of this repo.
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
